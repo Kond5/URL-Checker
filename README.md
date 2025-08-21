@@ -17,7 +17,7 @@ Requirements:
 Make sure you have the requests library installed. You can install it using the following command:
 
 
-pip install requests 
+[pip install requests] 
 
 How to Run:
 
@@ -28,6 +28,6 @@ Open your command line and navigate to the directory where the file is located.
 Run the program using the command below:
 
 
-python url_checker.py
+[python url_checker.py]
 
 
